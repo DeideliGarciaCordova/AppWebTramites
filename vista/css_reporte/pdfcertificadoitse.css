@@ -1,0 +1,82 @@
+ /*@import url('https://fonts.cdnfonts.com/css/simple-brush-script');*/
+
+  #logo{ 
+        overflow: hidden;
+        width: 100%; 
+        background:#79A44A;
+        }
+        .col-img{
+        float: left;
+        width: 18%;
+        text-align: center;
+        background:#fff;
+        }
+
+        .col-logo{
+        float: left;
+        border:1px solid #FFF;
+        width: 27%;
+        text-align: center;
+        color:#FFF; 
+        }
+        #eslogan{   
+            font-family:'Brush';
+           /*font-family:"Simple Brush Script"*/
+            font-style: normal;
+            font-size: 20px;  
+            margin: -9px 0px -5px 0px;  
+             padding: 0px ;
+             letter-spacing:1px; 
+
+            
+                                    
+        }
+
+        .anio{
+                padding: 02px;
+                text-align: center; 
+                font-family: "Latin Modern Roman";
+                font-style: italic;
+                letter-spacing:2px; 
+            }
+        .titulo{
+            text-align: center;
+            font-size: 15px;
+            margin-bottom: 0px;
+        }
+        .codigo{
+            text-align: right;
+            margin: 0px;
+        }
+        .resolucion{
+            text-align: center;
+            margin-top: 1px;
+            font-size: 15px;
+        }
+        .organoejecutable{
+            font-size: 14px;
+            text-align: justify;
+        }
+        .instituto{
+            font-size: 16px; 
+            text-align: center; 
+            padding-bottom:-3px ;
+            margin:0px 11% ;
+            width: 100%;
+            border-bottom:1px solid #000;
+            text-align: left;
+             
+        }
+
+        .fila{
+              padding:0px  ;
+              margin: 0px ;
+             /* border:1px solid #0ef;*/
+              
+            }
+
+            .txtsmall{
+                margin:0px 0px 1px 0px;
+                font-size: 10px;
+                text-align: center;
+            }
